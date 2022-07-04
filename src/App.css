@@ -1,0 +1,6 @@
+.submit-button{
+  cursor: pointer;
+}
+.submit-button:hover{
+  background-color: lightblue;
+}
